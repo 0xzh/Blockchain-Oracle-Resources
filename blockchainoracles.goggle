@@ -1,1 +1,17 @@
+! name: Blockchain Oracle Resources
+! description: Blockchain oracle information
+! public: true
+! author: Goggles 101
+! avatar: #9244e0
 
+$discard
+$downrank,site=medium.com
+
+$boost=1,site=github.io
+$boost=1,site=micro.blog
+/blog.$boost=1
+/blog/$boost=1
+/engineering.$boost=2
+
+
+$boost=3,site=https://medium.com/tellor/best-practices-for-oracle-users-on-ethereum-1ad9e2a43c3b
